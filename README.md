@@ -2,11 +2,11 @@
 
 Participantes:
 
-Tiago Santos Pereira
-Paulo Andrade
-Adriana Sumire
-Anderson da Silva de Oliveira
-Adriana Lima Shikasho
-Gabriel Bottasin
-Tiago Campos Sabor
-Israel Silva
+<p>Tiago Santos Pereira</p>
+<p>Paulo Andrade</p>
+<p>Adriana Sumire</p>
+<p>Anderson da Silva de Oliveira</p>
+<p>Adriana Lima Shikasho</p>
+<p>Gabriel Bottasin</p>
+<p>Tiago Campos Sabor</p>
+<p>Israel Silva</p>
